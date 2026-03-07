@@ -2,7 +2,7 @@
 name: "[Solicitud de cambio]"
 about: Solicita un cambio para el proyecto
 title: "[CR]"
-labels: ''
+labels: change request
 assignees: ''
 
 ---
