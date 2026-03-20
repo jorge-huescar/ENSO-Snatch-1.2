@@ -1,16 +1,16 @@
 ---
-name: "[Solicitud de cambio]"
-about: Solicita un cambio para el proyecto
+name: "[Solicitude de cambio]"
+about: Solicita un cambio para o proxecto
 title: "[CR]"
 labels: change request
 assignees: ''
 
 ---
 
-**Fecha solicitud**: ##/##/##
+**Data de solicitude**: ##/##/##
 
-**Descripción del problema**: Una descripción concisa del problema, si aplica. E.g.: la interfaz gráfica resulta poco responsiva.
+**Descripción do problema**: Una descripción concisa del problema, si aplica. E.g.: la interfaz gráfica resulta poco responsiva.
 
-**Solución propuesta**: Una descripción clara y concisa de qué te gustaría que ocurriese
+**Solución proposta**: Una descripción clara y concisa de qué te gustaría que ocurriese
 
-**Prioridad**: Urgente/Alta/Media/Baja
+**Prioridade**: Urgente/Alta/Media/Baja
